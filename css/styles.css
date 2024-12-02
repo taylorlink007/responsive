@@ -1,0 +1,10 @@
+.album-cover {
+    max-height: 400px;
+    object-fit: cover;
+}
+.social-icons a {
+    color: #333;
+    margin-right: 15px;
+    font-size: 24px;
+}
+
